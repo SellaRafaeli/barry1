@@ -16,6 +16,12 @@ class NilClass
 	end
 end
 
-module MONGO
- 	extend self 	
+class Mongo::Collection
+	def find_by_id(id)
+		self.find(id.to_bson_id).first
+	end
 end
+
+# module MONGO
+#  	extend self 	
+# end

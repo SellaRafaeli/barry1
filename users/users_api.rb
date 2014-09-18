@@ -2,7 +2,7 @@ $users = $db.collection('users')
 
 namespace '/users' do
 	get '/:_id' do 		
-		$users.find(_id: params[:_id].to_bson_id).first.to_json
+		$users.find_by_id(params[:id]).to_json
 	end
 
 	post '/create' do
