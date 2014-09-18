@@ -1,27 +1,19 @@
 include Mongo
 
-#good link: http://rubylearning.com/blog/2010/12/21/being-awesome-with-the-mongodb-ruby-driver/
 $db    = CONN = MongoClient.new("localhost", 27017).db($app_name)
 
-#"to_bson_id" is important to be able to easily query by id. See http://stackoverflow.com/questions/22849420/query-mongodb-objectid-using-ruby-driver
-class String
-	def to_bson_id
-  	BSON::ObjectId.from_string(self)
-	end
-end
-
-class NilClass
-	def to_bson_id
-  	self
-	end
-end
-
+# custom methods to make dealing with Mongo object ids easier. Some ruby/mongo hacking here. 
 class Mongo::Collection
-	def find_by_id(id)
-		self.find(id.to_bson_id).first
+	def findOne(_id)
+		self.find(_id: _id).first	
+	end
+
+	def add(doc)
+		doc[:_id] = nice_id
+		self.insert(doc)
+	end
+
+	def nice_id #unique, url-able, dev-friendly. Try it yourself!
+		rand(36**7).to_s(36)+"-"+rand(1000).to_s
 	end
 end
-
-# module MONGO
-#  	extend self 	
-# end
