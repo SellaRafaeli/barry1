@@ -5,9 +5,14 @@ namespace '/users' do
 		$users.find(_id: params[:_id].to_bson_id).first.to_json
 	end
 
-	post '/' do
-		z = $users.insert(params.merge(rand1000: rand(1000)))
-		{status: 200, id: z.to_s}.to_json
+	post '/create' do
+		new_obj = $users.insert(params)
+		{status: 200, id: new_obj.to_s}.to_json
 	end
+
+	# post '/:_id/update' do
+	# 	$users.update( { :_id => post_id }, '$set' => params )		
+	# end
+
 end
 
