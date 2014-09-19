@@ -1,4 +1,4 @@
-#Various Ruby monkey-patching for awesomeness. Wat.
+#Various Ruby monkey-patching for awesomeness. This is the dark ruby magic your mother warned you about. Wat.
 
 # enable Hash dot access. x={a:1}; x.a==1; x.b=2; x.b==2;
 class Hash
