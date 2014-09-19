@@ -9,8 +9,8 @@
 6. Optimize for developer happiness. 
 
 ## Install:
-1. $ git clone https://github.com/SellaRafaeli/boilerApp.git
-2. $ cd boilerApp
+1. $ git clone https://github.com/SellaRafaeli/barry.git
+2. $ cd barry
 3. $ bundle install
 4. $ shotgun / rackup 
 
@@ -35,4 +35,4 @@ $ curl --cookie "user_token=642" localhost:9393/users/me # {"id":1109,"name":"mo
 ```
 
 ## License
-BoilerApp is licensed under MIT. Copyright © 2014 Sella Rafaeli.
+Barry is licensed under MIT. Copyright © 2014 Sella Rafaeli.
