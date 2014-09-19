@@ -31,7 +31,7 @@ $ curl --cookie "user_token=126" -H "Content-Type: application/json" -d '{"data"
 Get user's data (using auth token cookie):
 
 ```
-$ curl --cookie "user_token=642" localhost:9393/users/me # {"id":1109,"name":"moshe","age":"20","token":"642","letters":"abc","password":"xyz"}
+$ curl --cookie "user_token=642" localhost:9393/users/me # {"id":1109,"name":"moshe","age":"20","token":"642","country":"Israel","city":"Haifa"}
 ```
 
 ## License
