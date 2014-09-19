@@ -26,6 +26,8 @@ GEM
       byebug (~> 3.4)
       pry (~> 0.10)
     rack (1.5.2)
+    rack-parser (0.6.0)
+      rack
     rack-protection (1.5.3)
       rack
     rack-test (0.6.2)
@@ -67,6 +69,7 @@ DEPENDENCIES
   colorize
   mongo
   pry-byebug
+  rack-parser
   shotgun
   sinatra
   sinatra-contrib

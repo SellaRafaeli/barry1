@@ -1,16 +1,15 @@
 require 'rubygems'
 require 'bundler'
 require 'sinatra/namespace'
-require 'json'
+require 'json' 
 
 Bundler.require
 
-# config - export to config.rb when expands
-$app_name = 'boilerApp1'
-
 # our app files - export to require.rb or st when expands
-require './middleware.rb'
-require './db/mongo.rb'
-require './users/users_api.rb'
+require './middleware'
+require './ruby_awesomeness'
+require './db/mongo'
+require './users/user'
+require './users/users_api'
 
-puts "Ready to rock'n'roll".light_red
+puts "Ready to rock".light_red

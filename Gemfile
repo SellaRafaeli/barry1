@@ -7,4 +7,5 @@ gem 'tux'
 gem 'pry-byebug'
 gem 'colorize'
 gem 'mongo'
-gem 'bson_ext'
+gem 'bson_ext' #helps mongo performance
+gem 'rack-parser'
