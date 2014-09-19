@@ -2,12 +2,12 @@ $users = $db.collection('users')
 
 namespace '/users' do
 		
-	get '/me' do		
-		current_user		
+	get '/me' do 		
+		$users.findOne({_id: current_user._id})	 #curl --cookie "user_token=642" localhost:9393/users/me			
 	end
 
 	get '/:_id' do # curl localhost:9393/users/vz2xtul-904 				 				
-		$users.findOne(_id: params[:_id])
+		#$users.findOne(_id: params[:_id])
 	end
 
 	post '/create' do # curl -d "name=moshe&age=20" localhost:9393/users/create		

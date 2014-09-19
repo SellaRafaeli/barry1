@@ -8,7 +8,7 @@ module User
 		[id, token]	
 	end
 
-	def basic_data(criteria)
+	def basic_data(criteria)		
 		user = $users.find(criteria).first
 		subfields = {_id: user._id} if user		
 	end
