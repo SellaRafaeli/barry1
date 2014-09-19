@@ -1,5 +1,5 @@
 #config
-$app_name   = 'boilerApp1'
+$app_name   = 'barry1'
 $production = (ENV['production'] == true)
 
 require './app'

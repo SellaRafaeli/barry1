@@ -1,4 +1,4 @@
-BoilerApp (temporary name) is a ready-to-use boiler-plate Sinatra-based Ruby web-app API BE based on principles of extreme minimalism and optimized for Developer Happiness. 
+**Barry** is a lightweight, low-ceremony, ready-to-use boiler-plate Sinatra-based Ruby web-app API BE based on principles of extreme minimalism and optimized for Developer Happiness. 
 
 ## Design Principles & Features
 1. BE as API, agnostic to client, accepts and returns JSON. 
@@ -33,3 +33,6 @@ Get user's data (using auth token cookie):
 ```
 $ curl --cookie "user_token=642" localhost:9393/users/me # {"id":1109,"name":"moshe","age":"20","token":"642","letters":"abc","password":"xyz"}
 ```
+
+## License
+BoilerApp is licensed under MIT. Copyright © 2014 Sella Rafaeli.
