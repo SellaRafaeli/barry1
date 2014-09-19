@@ -36,3 +36,6 @@ $ curl --cookie "user_token=642" localhost:9393/users/me # {"id":1109,"name":"mo
 
 ## License
 Barry is licensed under MIT. Copyright © 2014 Sella Rafaeli.
+
+## Version History
+0.0.1 - September 2014
