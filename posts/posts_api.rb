@@ -6,7 +6,8 @@ namespace '/posts' do
 		$posts.findOne(params[:_id])
 	end
 
-	post '/create' do # curl -d "user=moshe&age=20" localhost:9393/posts/create
+	post '/create' do # curl --cookie "user_token=642" -d "user=moshe&age=20" localhost:9393/posts/create
+		Post.create(params)		
 		new_obj = $posts.add(params)
 		{status: 200, id: new_obj}
 	end
