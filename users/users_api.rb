@@ -1,18 +1,16 @@
-$users = $db.collection('users')
-
 namespace '/users' do
 		
 	get '/me' do 		
-		$users.findOne({_id: current_user._id})	 #curl --cookie "user_token=642" localhost:9393/users/me			
+		User.find_one({_id: params.cuid}) #curl --cookie "user_token=758" localhost:9393/users/me						
 	end
 
-	get '/:_id' do # curl localhost:9393/users/vz2xtul-904 				 				
-		#$users.findOne(_id: params[:_id])
+	get '/id/:_id' do
+		User.find_one({_id: params._id}) #curl localhost:9393/users/id/274						
 	end
 
 	post '/create' do # curl -d "name=moshe&age=20" localhost:9393/users/create		
-		id, token = User.create(params)	
-		{status: 200, id: id, token: token}
+		res = User.create(params)	
+		{status: 200, res: res}
 	end
 	
 	post '/updateMe' do # curl --cookie "user_token=642" -H "Content-Type: application/json" -d '{"data":{"letters":"abc","password":"xyz"}}' http://localhost:9393/users/updateMe	 		 		 	

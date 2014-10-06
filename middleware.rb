@@ -16,16 +16,12 @@ after do
  @response.body = @response.body.to_json
 end
 
-# == 
-
-def current_user
-	request.env['current_user']
+def bp
+	binding.pry
 end
 
 def set_current_user		
-	params['current_user'] = request.env['current_user'] = (token = request.cookies['user_token']) ? User.basic_data(token: token) : nil
-end
-
-def bp
-	binding.pry
+	current_user = (token     = request.cookies['user_token']) ? User.basic_data(token: token) : nil
+	params['current_user']    = current_user
+	params['current_user_id'] = params['cuid'] = current_user && current_user._id 
 end
