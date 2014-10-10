@@ -22,7 +22,7 @@ def bp
 end
 
 def set_current_user		
-	current_user = (token     = request.cookies['user_token']) ? User.basic_data(token: token) : nil
+	current_user = (token     = request.cookies['user_auth_token']) ? User.basic_data(token: token) : nil
 	params['current_user']    = current_user
 	params['current_user_id'] = params['cuid'] = current_user && current_user._id 
 end

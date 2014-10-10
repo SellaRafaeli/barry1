@@ -9,7 +9,8 @@ namespace '/users' do
 	end
 
 	post '/create' do # curl -d "name=moshe&age=20" localhost:8001/users/create		
-		res = User.create(params)	
+		res = User.create(params)		
+		cookies[:user_auth_token] = res[:token]
 		{status: 200}.merge(res)
 	end
 	
