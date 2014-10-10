@@ -1,19 +1,19 @@
 namespace '/users' do
 		
 	get '/me' do 		
-		User.find_one({_id: params.cuid}) #curl --cookie "user_token=758" localhost:9393/users/me						
+		User.find_one({_id: params.cuid}) #curl --cookie "user_token=758" localhost:8001/users/me						
 	end
 
 	get '/id/:_id' do
-		User.find_one({_id: params._id}) #curl localhost:9393/users/id/274						
+		User.find_one({_id: params._id}) #curl localhost:8001/users/id/274						
 	end
 
-	post '/create' do # curl -d "name=moshe&age=20" localhost:9393/users/create		
+	post '/create' do # curl -d "name=moshe&age=20" localhost:8001/users/create		
 		res = User.create(params)	
-		{status: 200, res: res}
+		{status: 200}.merge(res)
 	end
 	
-	post '/updateMe' do # curl --cookie "user_token=642" -H "Content-Type: application/json" -d '{"data":{"letters":"abc","password":"xyz"}}' http://localhost:9393/users/updateMe	 		 		 	
+	post '/updateMe' do # curl --cookie "user_token=642" -H "Content-Type: application/json" -d '{"data":{"letters":"abc","password":"xyz"}}' http://localhost:8001/users/updateMe	 		 		 	
 	 	$users.update({_id: current_user._id}, '$set' => params[:data] || {})			 
   end
 

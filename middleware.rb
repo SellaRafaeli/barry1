@@ -13,7 +13,8 @@ before do
 end
 
 after do
- @response.body = @response.body.to_json
+	content_type 'application/json'
+  @response.body = @response.body.to_json
 end
 
 def bp
