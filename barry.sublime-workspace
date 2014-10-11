@@ -1,0 +1,1476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"security",
+				"security_settings"
+			],
+			[
+				"banking_",
+				"banking_user_paypal_ec_data"
+			],
+			[
+				"Sec",
+				"security_settings"
+			],
+			[
+				"cm",
+				"commits"
+			],
+			[
+				"master",
+				"master_file"
+			],
+			[
+				"Staging",
+				"Staging07"
+			],
+			[
+				"fiverr",
+				"fiverr-cucumber"
+			],
+			[
+				"Bran",
+				"Branch_name"
+			],
+			[
+				"data",
+				"Databases"
+			],
+			[
+				"Payno",
+				"PayoneerApplication"
+			],
+			[
+				"sequel",
+				"sequel_start"
+			],
+			[
+				"end",
+				"show_extended_financials"
+			],
+			[
+				"valida",
+				"validation_res"
+			],
+			[
+				"order",
+				"order_options"
+			],
+			[
+				"asser",
+				"assert_redirected_to"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pf",
+				"profile_name"
+			],
+			[
+				"profile",
+				"profile_name"
+			],
+			[
+				"st",
+				"status"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.ru",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Sella/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "barry.sublime-project",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.rb",
+			"settings":
+			{
+				"buffer_size": 363,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "users/users_api.rb",
+			"settings":
+			{
+				"buffer_size": 659,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"project s",
+				"Project: Save As"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"browse ser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"key bindin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"syn apple",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"syn ",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"syn appl",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"syn text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"key bindings",
+				"TabsShortcuts: Key Bindings – User"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keyb",
+				"TabsShortcuts: Key Bindings – User"
+			],
+			[
+				"key",
+				"TabsShortcuts: Key Bindings – User"
+			],
+			[
+				"key bin",
+				"TabsShortcuts: Key Bindings – Default"
+			],
+			[
+				"package settings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package setin",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"word wrp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"side bar e",
+				"Side Bar: Refresh"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syntax rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntax ",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntax ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"inre",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"synta css",
+				"Set Syntax: CSS"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"brwose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"brwo",
+				"Preferences: Browse Packages"
+			],
+			[
+				"toolbar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+			"class CloseOtherTabs(sublime_plugin.TextCommand):",
+			"class Foo",
+			"1+1",
+			"class CloseOtherTabs(sublime_plugin.TextCommand):",
+			"def run(self, edit):",
+			"class CloseOtherTabs(sublime_plugin.TextCommand):",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Sella/Code/barry",
+		"/Users/Sella/Code/barry/posts",
+		"/Users/Sella/Code/barry/users"
+	],
+	"file_history":
+	[
+		"/Users/Sella/Code/batyam/public/bower_components/angular/angular.js",
+		"/Users/Sella/Code/batyam/users/user.rb",
+		"/Users/Sella/Code/batyam/users/users_api.rb",
+		"/Users/Sella/Code/batyam/public/bower_components/angular-route/.bower.json",
+		"/Users/Sella/Code/batyam/README.md",
+		"/Users/Sella/Code/batyam/middleware.rb",
+		"/Users/Sella/Code/batyam/ruby_awesomeness.rb",
+		"/Users/Sella/Code/batyam/public/bower_components/angular/package.json",
+		"/Users/Sella/Code/batyam/public/bower_components/pure-min/index.css",
+		"/Users/Sella/Code/batyam/public/index.html",
+		"/Users/Sella/Code/batyam/index.html",
+		"/Users/Sella/Code/batyam/config.ru",
+		"/Users/Sella/Code/batyam/queries/queries_api.rb",
+		"/Users/Sella/Code/batyam/app.rb",
+		"/Users/Sella/Code/batyam/Gemfile",
+		"/Users/Sella/Code/batyam/bower_components/pure-min/index.css",
+		"/Users/Sella/Dropbox/notes/Technology/Bash_shell/linux_tar.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/common_errors.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/paperwork/rampup_and_installation.txt",
+		"/Users/Sella/.bash_profile",
+		"/Users/Sella/Dropbox/notes/fiverr/innovation_team/video_thumbnails.txt",
+		"/Users/Sella/Dropbox/notes/Technology/Linux_Unix.txt",
+		"/Users/Sella/Dropbox/notes/TODOs/TODOs (3.11.13)",
+		"/Users/Sella/Dropbox/notes/fiverr/envs/fiverr_blog.txt",
+		"/Users/Sella/Dropbox/notes/Creative/sellarafaeli.com_content/templates/blog_index.erb",
+		"/Users/Sella/Dropbox/notes/personal/blog.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/envs/VPN.txt",
+		"/Users/Sella/Dropbox/notes/Studying/CS/lambda_calculus_and_functional_programming.txt",
+		"/Users/Sella/Dropbox/notes/Creative/sellarafaeli.com_content/blog/git-book (Fiverr’s MacBook Air's conflicted copy 2014-09-17).html",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/methlab_ab_testing.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/Modules_in_Ruby_and_Rails",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/mac_tricks.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/banking/coinbase.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/front_end/css.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/RabbitMQ.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/envs/Localhost.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/dapulse.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/YMLs.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/bash_tips_and_tricks.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/envs/production.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/scripts/banking_transfer_amounts_script",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/tux.txt",
+		"/Users/Sella/Dropbox/notes/Creative/daat/Daat_Mongo.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/payment_vendors/damn_quick_pay_dqp",
+		"/Users/Sella/Dropbox/notes/Creative/thoughts/Ruby_and_Rails_Concurrency.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/paperwork/cibus.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/docs_and_features/pay_per_click_ppc_in_fiverr",
+		"/Users/Sella/Dropbox/notes/fiverr/envs/backoffice.txt",
+		"/Users/Sella/Dropbox/notes/kohnstamm_apt/Handymen_and_professionals.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/banking/proposed_new_payment_flow.txt",
+		"/Users/Sella/Dropbox/notes/personal/Kaspi/visa",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/rails_batch_processing.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/envs/rails_before_filters.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/ruby_tips_and_tricks.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/envs/Staging.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/docs_and_features/Security_Question_requirements.txt",
+		"/Users/Sella/.gitconfig",
+		"/Users/Sella/Dropbox/notes/fiverr/paperwork/on_call.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/Postgres.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/innovation_team/Innovation_Team.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/envs/finance_service_devops_checklist.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/grafana_counters_and_graphite_and_dashboard.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/hipchat.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/GrayLog.txt",
+		"/Users/Sella/Dropbox/notes/traveling/List_of_Places_Visited_(Traveled).txt",
+		"/Users/Sella/Dropbox/notes/Technology/Markdown",
+		"/Users/Sella/Dropbox/notes/TODOs/movies_to_watch.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/Git.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/docs_and_features/documentation_attempt_express_checkout_flow.txt",
+		"/Users/Sella/Dropbox/notes/kohnstamm_apt/arnona_bills_electricity_and_water",
+		"/Users/Sella/Dropbox/notes/personal/anya_kirvas.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/Kanban.txt",
+		"/Users/Sella/Dropbox/notes/Technology/Databases/MYSQL.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/banking/pending_account_activity_clearance_cron_job.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/JSON.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/testing/Tech5_Databases_Talk_16_1_14.txt",
+		"/Users/Sella/Dropbox/notes/fiverr/tools/data_badger.txt",
+		"/Users/Sella/Dropbox/notes/Technology/Heroku.txt",
+		"/Users/Sella/fiverr/5rr_v2/package.json",
+		"/Users/Sella/fiverr/5rr_v2/lib/extended_attributes/extended_attribute.rb",
+		"/Users/Sella/fiverr/5rr_v2/config/environment.rb",
+		"/Users/Sella/fiverr/fiverr_financials/lib/gateway/gateway_accounts.rb",
+		"/Users/Sella/fiverr/fiverr_financials/Gemfile",
+		"/Users/sella.rafaeli/.bash_profile",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/docs_and_features/order_page_recommendations.txt",
+		"/Users/sella.rafaeli/Downloads/X-Men.Days.of.Future.Past.2014.HDRip.XviD-SaM[ETRG] 2.srt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/tux.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/Express Checkout Split",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/docs_and_features/cart_phase_4",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/docs_and_features/houston_add_funds.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/personal/anya_kirvas.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/ruby_tips_and_tricks.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_content/README",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/daat/pocs_writers_and_questions.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/Impala.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/Failed_Payments_Events.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/envs/recommendation_service.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/YMLs.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/envs/production.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/envs/Staging.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/users_service.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/envs/backoffice.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/kohnstamm_apt/arnona_bills_electricity_and_water",
+		"/Users/sella.rafaeli/Dropbox/notes/TODOs/TODOs (3.11.13)",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/payment_vendors/PayPal IPNs - Instant Payment Notifications.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/Technology/freehosting.com",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/git/precommit_hooks.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/simple_rest_client.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/personal/music.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/banking/banking_fix_common_tips",
+		"/Users/sella.rafaeli/Dropbox/notes/personal/blog.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/daat/daat_contacts",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/daat/Daat_Mongo.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/payment_vendors/damn_quick_pay_dqp",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_content/generate_content.rb",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_content/index.md",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/thoughts/git_links.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/thoughts/unit_testing_and_tdd_links.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_content/about.md",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_content/drafts/idempotency.md",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_admin/sellarafaeli.com_blog_admin.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_content/blog_src/git-book.md",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/Git.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_content/drafts/mean_stack_why.html",
+		"/Users/sella.rafaeli/Dropbox/notes/Creative/sellarafaeli.com_content/drafts/Daat.html",
+		"/Users/sella.rafaeli/Dropbox/notes/Technology/BE/Databases/Mongo/mongo_read_modify_write_function.txt",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/tools/Modules_in_Ruby_and_Rails",
+		"/Users/sella.rafaeli/Dropbox/notes/fiverr/docs_and_features/refund_paypal.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Volumes/fiverDisk/fiverr/app",
+			"/Volumes/fiverDisk/fiverr/app/views/backoffice",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"+",
+			"._id",
+			"ping",
+			"bp",
+			"pry",
+			"find_all",
+			"def bp",
+			"button",
+			"{{",
+			"click",
+			"remote",
+			"copy",
+			"devops",
+			"grafana",
+			"kibana",
+			"hipchat",
+			"starting to create order",
+			"def create",
+			"on_success",
+			"redirecting user for",
+			"Redirecting user for paypal_express_payment approval",
+			"handle_deposit_event",
+			"starting to create order",
+			".git",
+			"git",
+			"johnnydepp",
+			"yogev_bt1",
+			"Redis is configured to save RDB snapshots",
+			"reduce",
+			"about",
+			"carttoken",
+			"initia",
+			"index",
+			"getindexes",
+			"showindexes",
+			"showindi",
+			"showinde",
+			"index",
+			"tree",
+			"seconds behind master",
+			"reversed",
+			"dispute",
+			"shai",
+			"ipn simulator",
+			"dvir",
+			"create",
+			"new",
+			"drop collection",
+			"drop",
+			"node app",
+			"git push heroku",
+			"process_deposit",
+			"08384d5f3dbc1cd14637",
+			"process_deposit",
+			"billing",
+			"process_deposit",
+			"_path",
+			"path",
+			"process_deposit",
+			"10486",
+			"foo",
+			"benchmark",
+			"cart",
+			"order now",
+			"withdrawal",
+			"withdrawl",
+			"inheritance mechanism",
+			"shotgun",
+			"MONGO_CONN_STR",
+			"billing_jam",
+			"billing",
+			"todo",
+			"pending amount",
+			"event",
+			"upcoming ",
+			"upcoming earnings",
+			"data_getter",
+			"user",
+			"english",
+			"mark_user_as_dirty",
+			"dwolla",
+			"invalid",
+			"pry",
+			"master",
+			"noga",
+			"tzach",
+			"upcoming",
+			"free",
+			"track",
+			"clear_sales_funds",
+			"mongo",
+			"desktop",
+			"horses",
+			"10486",
+			"counters",
+			"april",
+			"blabla",
+			"sismember",
+			"billing agreement",
+			"sandbox.paypal.com",
+			"sandbox",
+			"billing",
+			"skype",
+			"heroku",
+			"ps1",
+			"upcoming earnings",
+			"10675796",
+			"findandmodify",
+			"200112720",
+			"random",
+			"shotgun",
+			"adapter",
+			"database configuration ",
+			"database configuration does not specify adapter",
+			"submit",
+			"border",
+			"fail",
+			"precommit",
+			"hook",
+			"cl",
+			"directory",
+			"inspector",
+			"$data",
+			"fizzbuzz",
+			"refund",
+			"Rollout",
+			"data_getter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.ru",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Sella/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "barry.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "users/users_api.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "barry.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sublime",
+				"barry.sublime-project"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"app",
+				"app.rb"
+			],
+			[
+				"config",
+				"config.ru"
+			],
+			[
+				"my",
+				"db/mysql.rb"
+			],
+			[
+				"confi",
+				"config.ru"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				"myq",
+				"db/mysql.rb"
+			],
+			[
+				"conf",
+				"config.ru"
+			],
+			[
+				"index",
+				"public/index.html"
+			],
+			[
+				"mysql",
+				"db/mysql.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"mongo",
+				"db/mongo.rb"
+			],
+			[
+				"require",
+				"queries/queries_api.rb"
+			],
+			[
+				"quer",
+				"queries/queries_api.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"awesome",
+				"ruby_awesomeness.rb"
+			],
+			[
+				"queri",
+				"queries/queries_api.rb"
+			],
+			[
+				"ap",
+				"app.rb"
+			],
+			[
+				"middl",
+				"middleware.rb"
+			],
+			[
+				"todo",
+				"TODOs/TODOs (3.11.13)"
+			],
+			[
+				"video",
+				"fiverr/innovation_team/video_thumbnails.txt"
+			],
+			[
+				"staging",
+				"fiverr/envs/Staging.txt"
+			],
+			[
+				"common",
+				"fiverr/tools/common_errors.txt"
+			],
+			[
+				"rampup",
+				"fiverr/paperwork/rampup_and_installation.txt"
+			],
+			[
+				"tar",
+				"Technology/Bash_shell/linux_tar.txt"
+			],
+			[
+				"linux",
+				"Technology/Linux_Unix.txt"
+			],
+			[
+				"profile",
+				"~/.bash_profile"
+			],
+			[
+				"dapulse",
+				"fiverr/dapulse.txt"
+			],
+			[
+				"dapl",
+				"fiverr/dapulse.txt"
+			],
+			[
+				"cibus",
+				"fiverr/paperwork/cibus.txt"
+			],
+			[
+				"bash",
+				"fiverr/tools/bash_tips_and_tricks.txt"
+			],
+			[
+				"rapm",
+				"fiverr/paperwork/rampup_and_installation.txt"
+			],
+			[
+				"yml",
+				"fiverr/tools/YMLs.txt"
+			],
+			[
+				"localhost",
+				"fiverr/envs/Localhost.txt"
+			],
+			[
+				"postgre",
+				"fiverr/tools/Postgres.txt"
+			],
+			[
+				"loca",
+				"fiverr/envs/Localhost.txt"
+			],
+			[
+				"mac",
+				"fiverr/tools/mac_tricks.txt"
+			],
+			[
+				"graylog",
+				"fiverr/tools/GrayLog.txt"
+			],
+			[
+				"devops",
+				"fiverr/envs/finance_service_devops_checklist.txt"
+			],
+			[
+				"onca",
+				"fiverr/paperwork/on_call.txt"
+			],
+			[
+				"produ",
+				"fiverr/envs/production.txt"
+			],
+			[
+				"hipch",
+				"fiverr/tools/hipchat.txt"
+			],
+			[
+				"css",
+				"fiverr/tools/front_end/css.txt"
+			],
+			[
+				"prod",
+				"fiverr/envs/production.txt"
+			],
+			[
+				"purchase",
+				"app/controllers/purchases_controller.rb"
+			],
+			[
+				"expresspay",
+				"app/models/gateway/paypal_express_payment.rb"
+			],
+			[
+				"gateway",
+				"lib/gateway/gateway.rb"
+			],
+			[
+				"backof",
+				"fiverr/envs/backoffice.txt"
+			],
+			[
+				"git",
+				"fiverr/tools/Git.txt"
+			],
+			[
+				"produc",
+				"fiverr/envs/production.txt"
+			],
+			[
+				"anya",
+				"personal/anya_kirvas.txt"
+			],
+			[
+				"recommend",
+				"fiverr/docs_and_features/order_page_recommendations.txt"
+			],
+			[
+				"recomm",
+				"fiverr/envs/recommendation_service.txt"
+			],
+			[
+				"impala",
+				"fiverr/tools/Impala.txt"
+			],
+			[
+				"failed",
+				"fiverr/tools/Failed_Payments_Events.txt"
+			],
+			[
+				"elec",
+				"kohnstamm_apt/arnona_bills_electricity_and_water"
+			],
+			[
+				"cartphase",
+				"fiverr/docs_and_features/cart_phase_4"
+			],
+			[
+				"users",
+				"fiverr/tools/users_service.txt"
+			],
+			[
+				"stagin",
+				"fiverr/envs/Staging.txt"
+			],
+			[
+				"back",
+				"fiverr/envs/backoffice.txt"
+			],
+			[
+				"ruby",
+				"fiverr/tools/ruby_tips_and_tricks.txt"
+			],
+			[
+				"daatpoc",
+				"Creative/daat/pocs_writers_and_questions.txt"
+			],
+			[
+				"genera",
+				"Creative/sellarafaeli.com_content/generate_content.rb"
+			],
+			[
+				"generate",
+				"Creative/sellarafaeli.com_content/generate_content.rb"
+			],
+			[
+				"aboutmd",
+				"Creative/sellarafaeli.com_content/about.md"
+			],
+			[
+				"thoughtsunit",
+				"Creative/thoughts/unit_testing_and_tdd_links.txt"
+			],
+			[
+				"thoughtsgit",
+				"Creative/thoughts/git_links.txt"
+			],
+			[
+				"blog",
+				"personal/blog.txt"
+			],
+			[
+				"daatcon",
+				"Creative/daat/daat_contacts"
+			],
+			[
+				"poc",
+				"fiverr/paperwork/on_call.txt"
+			],
+			[
+				"daat",
+				"Creative/daat/daat_contacts"
+			],
+			[
+				"zend",
+				"fiverr/tools/ZenDesk.txt"
+			],
+			[
+				"discount",
+				"personal/Kaspi/discount.txt"
+			],
+			[
+				"vpn",
+				"fiverr/envs/VPN.txt"
+			],
+			[
+				"cart",
+				"fiverr/docs_and_features/cart_phase_4"
+			],
+			[
+				"water",
+				"kohnstamm_apt/arnona_bills_electricity_and_water"
+			],
+			[
+				"tux",
+				"fiverr/tools/tux.txt"
+			],
+			[
+				"pro",
+				"fiverr/envs/production.txt"
+			],
+			[
+				"promot",
+				"fiverr/docs_and_features/promotion_default.csv"
+			],
+			[
+				"data",
+				"fiverr/tools/data_badger.txt"
+			],
+			[
+				"promo",
+				"fiverr/docs_and_features/promotion_default.csv"
+			],
+			[
+				"add",
+				"fiverr/docs_and_features/houston_add_funds.txt"
+			],
+			[
+				"traveling",
+				"traveling/traveling_general.txt"
+			],
+			[
+				"backoffice",
+				"fiverr/envs/backoffice.txt"
+			],
+			[
+				"oncall",
+				"fiverr/paperwork/on_call.txt"
+			],
+			[
+				"time",
+				"fiverr/paperwork/Timesheet.txt"
+			],
+			[
+				"angular",
+				"Technology/angularjs.txt"
+			],
+			[
+				"on",
+				"fiverr/paperwork/on_call.txt"
+			],
+			[
+				"",
+				"fiverr/paperwork/on_call.txt"
+			],
+			[
+				"braintre",
+				"fiverr/payment_vendors/braintree.txt"
+			],
+			[
+				"daatfa",
+				"Creative/daat/facebook_apps_and_authentication"
+			],
+			[
+				"coinbase",
+				"fiverr/tools/banking/coinbase.txt"
+			],
+			[
+				"newreli",
+				"fiverr/tools/new_relic.txt"
+			],
+			[
+				"electr",
+				"kohnstamm_apt/arnona_bills_electricity_and_water"
+			],
+			[
+				"stag",
+				"fiverr/envs/Staging.txt"
+			],
+			[
+				"ipn",
+				"fiverr/payment_vendors/PayPal IPNs - Instant Payment Notifications.txt"
+			],
+			[
+				"paypal",
+				"fiverr/payment_vendors/PayPal IPNs - Instant Payment Notifications.txt"
+			],
+			[
+				"music",
+				"personal/music.txt"
+			],
+			[
+				"russia",
+				"Studying/Languages/Russian.txt"
+			],
+			[
+				"usic",
+				"personal/music.txt"
+			],
+			[
+				"daatmongo",
+				"Creative/daat/Daat_Mongo.txt"
+			],
+			[
+				"daatface",
+				"Creative/daat/facebook_apps_and_authentication"
+			],
+			[
+				"namechp",
+				"Technology/BE/namecheap.txt"
+			],
+			[
+				"billing",
+				"fiverr/tools/paypal_billing_agreements.txt"
+			],
+			[
+				"rabbit",
+				"fiverr/tools/RabbitMQ.txt"
+			],
+			[
+				"vacation",
+				"fiverr/docs_and_features/order_cancellation_flow.txt"
+			],
+			[
+				"markdown",
+				"Technology/Markdown"
+			],
+			[
+				"markd",
+				"Technology/Markdown"
+			],
+			[
+				"wordpress",
+				"Creative/wordpress.txt"
+			],
+			[
+				"project",
+				"fiverr_notes.sublime-project"
+			],
+			[
+				"damn",
+				"fiverr/payment_vendors/damn_quick_pay_dqp"
+			],
+			[
+				"dqp",
+				"fiverr/payment_vendors/damn_quick_pay_dqp"
+			],
+			[
+				"damnquick",
+				"fiverr/payment_vendors/damn_quick_pay_dqp"
+			],
+			[
+				"rails",
+				"fiverr/envs/rails_before_filters.txt"
+			],
+			[
+				"rabbi",
+				"fiverr/tools/RabbitMQ.txt"
+			],
+			[
+				"gigs",
+				"fiverr/envs/gigs_service.txt"
+			],
+			[
+				"shopping",
+				"fiverr/docs_and_features/shopping_cart.txt"
+			],
+			[
+				"sta",
+				"fiverr/envs/Staging.txt"
+			],
+			[
+				"namech",
+				"Technology/BE/namecheap.txt"
+			],
+			[
+				"cpanel",
+				"Creative/sellarafaeli.com/cpanel.txt"
+			],
+			[
+				"south",
+				"Creative/South_America_Backpacking_Book_see_traveling_SA_book.txt"
+			],
+			[
+				"readme",
+				"Creative/sellarafaeli.com/site/README"
+			],
+			[
+				"free",
+				"Technology/freehosting.com"
+			],
+			[
+				"sella.com",
+				"Creative/sellarafaeli.com/blog/index.html"
+			],
+			[
+				"herku",
+				"Technology/Heroku.txt"
+			],
+			[
+				"braintree",
+				"fiverr/payment_vendors/braintree.txt"
+			],
+			[
+				"tumbl",
+				"Creative/tumblr"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 521.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
