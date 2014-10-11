@@ -7,7 +7,7 @@ Bundler.require
 
 # our app files - export to require.rb or st when expands
 require './middleware'
-require './ruby_awesomeness'
+require './lib/mylib'
 require './db/mongo'
 require './users/user'
 require './users/users_api'

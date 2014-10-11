@@ -1,9 +1,6 @@
+#public users
 namespace '/users' do
 		
-	get '/me' do 		
-		User.find_one({_id: params.cuid}) #curl --cookie "user_token=758" localhost:8001/users/me						
-	end
-
 	get '/id/:_id' do
 		User.find_one({_id: params._id}) #curl localhost:8001/users/id/274						
 	end
@@ -14,8 +11,17 @@ namespace '/users' do
 		{status: 200}.merge(res)
 	end
 	
+end
+
+#current user
+namespace '/current_user' do
+		
+	get '/me' do 		
+		User.find_one({_id: params.cuid}) #curl --cookie "user_token=758" localhost:8001/users/me						
+	end
+	
 	post '/updateMe' do # curl --cookie "user_token=642" -H "Content-Type: application/json" -d '{"data":{"letters":"abc","password":"xyz"}}' http://localhost:8001/users/updateMe	 		 		 	
-	 	$users.update({_id: current_user._id}, '$set' => params[:data] || {})			 
+	 	$users.update({_id: params.cuid}, '$set' => params.data || {})			 
   end
 
 end
