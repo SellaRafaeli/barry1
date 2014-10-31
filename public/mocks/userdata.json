@@ -1,0 +1,24 @@
+{	
+	"user": 
+	{
+		"id": "123",
+		"name": "Bob Jones"        
+	},
+
+	"transactions": 
+		[
+		{"type": "Buy", "value": "250"},
+		{"type": "Buy", "value": "420"},
+		{"type": "Buy", "value": "240"},
+		{"type": "Sell", "value": "2140"},
+		{"type": "Sell", "value": "25540"},
+		{"type": "Sell", "value": "25380"},
+		{"type": "Sell", "value": "150"},
+		{"type": "Sell", "value": "642550"},
+		{"type": "Hold", "value": "4750"},
+		{"type": "Hold", "value": "5510"},
+		{"type": "Hold", "value": "3550"},
+		{"type": "Hold", "value": "190"}
+		
+		]
+}

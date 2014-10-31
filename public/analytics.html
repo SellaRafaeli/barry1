@@ -1,0 +1,15 @@
+<div id='analyticsPage'>
+
+    <h2>Your  analytics:</h2>
+
+    <table class="pure-table pure-table-horizontal pure-table-striped">
+        <thead>
+            <th>Name</th>
+            <th>Value</th>
+        </thead>
+        <tr ng-repeat="a in analytics">
+            <td>{{a.name}}</td>
+            <td>{{a.value}}</td>
+        </tr>
+    </table>
+</div>

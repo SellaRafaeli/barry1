@@ -1,0 +1,29 @@
+{
+  "name": "Barry-App",
+  "version": "0.0.0",
+  "authors": [
+    "Sella Rafaeli <sella.rafaeli@gmail.com>",    
+  ],
+  "description": "Barry",
+  "main": "app/app.js",
+  "keywords": [
+    "Barry"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.26",
+    "angular-route": "~1.2.26",
+    "json-formatter": "~0.2.2",
+    "less": "~1.7.5",
+    "pure": "~0.5.0",
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.1"
+  }
+}

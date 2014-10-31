@@ -1,0 +1,11 @@
+{
+    "user": {
+        "id": "123",
+        "name": "Bob Jones",        
+        "list": [
+            {"value": "Company", "name": "MyCompany"},
+            {"value": "Job", "name": "President"}
+        ]
+        
+    }
+}

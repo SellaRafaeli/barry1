@@ -1,0 +1,5 @@
+.idea
+.build
+npm*.log
+node_modules
+nohup.out

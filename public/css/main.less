@@ -1,0 +1,96 @@
+@import 'elements.less';
+/*colors*/
+@border-gray: #E1E8ED;
+@placeholder-text: lightgrey;
+@background-img-url: '/img/index-background4.jpg';
+
+.red { background-color: red; }
+.green { background-color: green;}
+
+#ng-view {
+	height: 100vh	
+}
+
+
+#login-page {
+	height: 100%;
+	background: url(@background-img-url) no-repeat fixed center;
+	background-size: 100% auto;
+	form {
+
+		&#login-form {
+			position: fixed;
+			right: 100px;
+			top: 100px;
+		}
+
+		.mini-title {
+			margin-bottom: 10px;
+			font-weight: lighter;
+			color: darkblue;			
+		}
+
+		.rounded(3px);
+		background-color: white;
+		padding: 12px 12px 0px;
+		border: 1px solid @border-gray;		
+		
+		input {
+			margin-bottom: 16px;
+			.rounded(0px);
+			height: 20px;
+			padding: 4px;
+			border: 2px solid lightgrey;
+			font-weight: lighter;			
+		}
+
+		button {
+			margin-left: 8px;
+			background-color: lightblue;
+			font-weight: bold;
+		}
+
+		.status {
+			font-weight: lighter;
+			color: darkblue;
+			margin-bottom: 10px;
+		}
+	}
+
+	#login-intro {
+		position: fixed;
+		top: 50px;
+		width: 410px;
+		left: 200px;
+		font-weight: lighter;
+		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color: white;
+	}
+}
+
+#profilePage {
+	table {
+		width: 100%;
+	}
+}
+
+::-webkit-input-placeholder {
+  color: @placeholder-text;  
+}
+
+:-moz-placeholder { /* Firefox 18- */
+  color: @placeholder-text;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+	color: @placeholder-text;  
+}
+
+:-ms-input-placeholder {  
+  color: @placeholder-text;  
+}
+
+.ng-table {
+    border: 1px solid #000;
+}
